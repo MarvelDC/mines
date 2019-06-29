@@ -1,0 +1,11 @@
+name: mines
+version: 1.0-SNAPSHOT
+main: me.marveldc.projects.mines.Mines
+author: MarvelDC
+description: Practice project - mines
+
+commands:
+  mines-create:
+    description: Allows creation of mines with region selector
+  mines-reload:
+    description: Reloads messages file
